@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co/YZNwhkJ/photo-1498050108023-c5249f4df085.jpg",
+      "title": "Lorem Ipsum",
+      "author": "John Doe",
+      "author_image": "https://i.ibb.co/yqhMmLv/sayed-2.png",
+      "posted_date": "2022-03-01",
+      "reading_time": 10 ,
+      "hashtags": ["#Lorem", "#Ipsum", "#Dolor"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co/YZNwhkJ/photo-1498050108023-c5249f4df085.jpg",
+      "title": "Dolor Sit Amet",
+      "author": "Jane Smith",
+      "author_image": "https://i.ibb.co/yqhMmLv/sayed-2.png",
+      "posted_date": "2022-03-02",
+      "reading_time": 15 ,
+      "hashtags": ["#Dolor", "#Sit", "#Amet"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co/YZNwhkJ/photo-1498050108023-c5249f4df085.jpg",
+      "title": "Consectetur Adipiscing",
+      "author": "Alice Johnson",
+      "author_image": "https://i.ibb.co/yqhMmLv/sayed-2.png",
+      "posted_date": "2022-03-03",
+      "reading_time": 12,
+      "hashtags": ["#Consectetur", "#Adipiscing"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co/YZNwhkJ/photo-1498050108023-c5249f4df085.jpg",
+      "title": "Sed Do Eiusmod Tempor",
+      "author": "Bob Williams",
+      "author_image": "https://i.ibb.co/yqhMmLv/sayed-2.png",
+      "posted_date": "2022-03-04",
+      "reading_time": 20,
+      "hashtags": ["#Sed", "#Tempor"]
+    },
+    {
+      "id": 5,
+      "cover": "https://i.ibb.co/YZNwhkJ/photo-1498050108023-c5249f4df085.jpg",
+      "title": "Incididunt Ut Labore",
+      "author": "Emily Brown",
+      "author_image": "https://i.ibb.co/yqhMmLv/sayed-2.png",
+      "posted_date": "2022-03-05",
+      "reading_time": 18,
+      "hashtags": ["#Incididunt", "#Labore"]
+    }
+  ]
+  
